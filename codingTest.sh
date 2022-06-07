@@ -1,4 +1,6 @@
 #!/bin/bash
+#
+#Created by aadiaz7
 
 echo "Please enter the Major Version you're looking for"
 read majorVersion
